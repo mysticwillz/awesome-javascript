@@ -1055,6 +1055,7 @@ _Libraries for indicate load status._
 ## WebSockets
 
 - [Socket.io](https://github.com/socketio/socket.io) The most widely used WebSocket library for real-time applications. Supports auto-reconnection, rooms, and fallbacks (e.g., polling).
+- [WS](https://github.com/websockets/ws) The fastest and most lightweight WebSocket library for Node.js. Great for building high-performance WebSocket servers.
 
 ## Misc
 
